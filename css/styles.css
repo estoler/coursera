@@ -23,7 +23,6 @@ h1 {
 }
 
 h2 {
- 	background: white;
 	border: 1px black solid;
 	padding: 10px;
 	text-align: center;
@@ -40,11 +39,11 @@ h2 {
 }
 
 #chicken h2 {
-	background-color: green;
+	background-color: red;
 }
 
 #beef h2 {
-	background-color: red;
+	background-color: green;
 }
 
 #shrimp h2 {
